@@ -1,0 +1,56 @@
+name: Monitor Cebraspe
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'monitor.py'
+      - '.github/workflows/monitor.yml'
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'monitor: consulta e envia; dry-run: apenas consulta; test: testa Telegram'
+        type: choice
+        options: [monitor, dry-run, test]
+        default: monitor
+permissions:
+  contents: write
+concurrency:
+  group: monitor-cebraspe
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verificar e notificar
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MODE: ${{ inputs.mode || 'monitor' }}
+        run: |
+          case "$MODE" in
+            dry-run) python monitor.py --dry-run ;;
+            test) python monitor.py --test-message ;;
+            monitor) python monitor.py ;;
+            *) exit 1 ;;
+          esac
+      - name: Preservar histórico mesmo em falha parcial
+        if: always()
+        run: |
+          if [ -f data/state.json ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add data/state.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Atualiza histórico do monitor'
+              git push origin HEAD
+            fi
+          fi
