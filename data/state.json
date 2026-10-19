@@ -1,0 +1,595 @@
+{
+  "version": 1,
+  "contests": {
+    "CBM_MA_26": {
+      "seen": {
+        "fc7c304f91fcbe5f283142494311cb1af5a3da736636fec913de3bc9049b8dbd": {
+          "section": "arquivosEdital",
+          "title": "Quantitativo de inscritos por sistema de concorrência",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/671DD3417B4B5139FC3EC75C6F3E502B4E3CFB203529603B3AF33F48F3C33E68.pdf",
+          "date": "2026-10-09T18:35:00"
+        },
+        "b1875134c192e95eb74f3567d7b44be8db380e0a755feda07d2eb9b26fd4a9e7": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 6 – Locais de aplicação das provas objetivas - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/7C16E0E6E9C831B5EBDD41227EEC93B3C8A02F80C02E140732CAA79B5020030A.html",
+          "date": "2026-10-02T10:20:00"
+        },
+        "ce367479d7b1c1e552d0b91fff98854e1d7480e97a72d9c63892fdf587936540": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 6 – Locais de aplicação das provas objetivas",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/D5820216E5EE631FB0B405952A3D56CCF3905DAE213E05D6B2D4DC645AC03BBE.pdf",
+          "date": "2026-10-02T10:19:00"
+        },
+        "d302e478f553e5047a4cd28d58d09e000a7590858442885f7a9f6acc8e14e401": {
+          "section": "arquivosEdital",
+          "title": "Relação final dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/2C1EA0E06F93F0485AE5251253D901309B29AAAE6AAC025E07EA071343BDC072.pdf",
+          "date": "2026-10-01T10:32:00"
+        },
+        "c6bf5442f0dfef4d37696c20ca1c3a7ff74503ee5085612a45115ed06310b70c": {
+          "section": "arquivosEdital",
+          "title": "Relação provisória dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência, sem considerar pagamentos efetivados e pedidos de isenção de taxa de inscrição - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/D20F88723E2606FCFC3B8BA717395850F0AD62AE902B4B6CDA11E2DF59FE1139.html",
+          "date": "2026-09-18T09:01:00"
+        },
+        "c39f58b9c93c1edf6c60dc52f533b2c68c22acc08c1c86bff72459290d714d3b": {
+          "section": "arquivosEdital",
+          "title": "Relação provisória dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência, sem considerar pagamentos efetivados e pedidos de isenção de taxa de inscrição",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/87968139160F336A4ACE7D921B8630425B7F2A7A9675B67E6D48CCBD2E073EF5.pdf",
+          "date": "2026-09-18T09:00:00"
+        },
+        "9902f9cc11d7e411219a2fef1e364461e2db657112f7850ba0defc45f2059d42": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Instruções relacionadas ao Documento de Arrecadação de Receitas Estaduais (DARE) - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/D54B317A4073559F2290AA359A1BA1A865A72E8766B2EF464C339F515BC3687A.html",
+          "date": "2026-09-10T19:03:00"
+        },
+        "14d6ec93c823c0178835815f6b4a3637130e6341d2824c5b8c8c6ffc280eac50": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Instruções relacionadas ao Documento de Arrecadação de Receitas Estaduais (DARE)",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/43774E92E598E9AA52E864375C27B34E7BF91B724553BB558D5DA57BC7F05139.pdf",
+          "date": "2026-09-10T19:01:00"
+        },
+        "c3239bc9876f3697185a4755fd4dde8945bba98a46c5d80bd1519cb4092e4c8e": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 5 – Prorrogação da data de pagamento da taxa de inscrição - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/E63DBDA1A94F72A01890E24844B74C7EF2EB0129A5B4236D1321711565CC7B91.html",
+          "date": "2026-09-10T17:29:00"
+        },
+        "5f0917d34cb047c564e8d0f94862eb98ad8027477ee684b1e8db20394fa054dd": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 5 – Prorrogação da data de pagamento da taxa de inscrição",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/760037C839CB75EDCC6D6F74674B4AF675A6879284796F49905B07A217F47E11.pdf",
+          "date": "2026-09-10T17:28:00"
+        },
+        "335e5164709faeb77190253d81cf00088782c1def427f73878831410d99973de": {
+          "section": "arquivosEdital",
+          "title": "Comunicado - Prazo para o pagamento da taxa de arrecadação - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/DC6DF79BEA0A2075A91A72640A3226984EDF090F32D4C3EF1C5F61F0E17FF9D9.html",
+          "date": "2026-09-08T18:38:00"
+        },
+        "dfe336a352636c799bc12078cf0781b233c68b2222a2a3347657f1028a062ae2": {
+          "section": "arquivosEdital",
+          "title": "Comunicado - Prazo para o pagamento da taxa de arrecadação",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/99306F2D01FB6D4141259A5E15EAE4149A797D9A9023D7606D2B41DE77BDB58C.pdf",
+          "date": "2026-09-08T18:37:00"
+        },
+        "218edea544979de63b63fc18acfa9b37c1860c615b0d707ae9355be43527045d": {
+          "section": "arquivosEdital",
+          "title": "Comunicado - Disponibilidade do Documento de Arrecadação de Receitas Estaduais (DARE) para pagamento da taxa de inscrição",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/C88666D14DC3C76835A1233D32DCD8BFA9766C84F48E3D5EFE7E03EB3A51D499.pdf",
+          "date": "2026-08-12T19:01:00"
+        },
+        "2ffe57bfa3e4489df41ec839e7e6386e1eb94af13f3d3c6638ca6540d84b6fb0": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 4 – Prorrogação do prazo para o envio de documentação e retificação de datas - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/F592A95DD6CB2B3972D372F91C232AC68782ED4F0D521658252483436030FAD6.html",
+          "date": "2026-08-07T17:26:00"
+        },
+        "5cfb8e450f1fe287152e987e1cf3b69d4fb4f682931e14c8b52b98a319cad5da": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 4 – Prorrogação do prazo para o envio de documentação e retificação de datas",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/A77A6DF79808615DDEB5FF3E1DA0CB208DCDA6D9A298FC7DFE3F6A12AAF4D703.pdf",
+          "date": "2026-08-07T17:19:00"
+        },
+        "b0669a5369c6018159a7624412ebd35d8dc56097774595b1d88dc902b1cece8e": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Indisponibilidade de Documento de Arrecadação de Receitas Estaduais (DARE) - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/2B433724C883FCF5A26686CFE63F4BA4EA53D51F53BBAF100ACA44100F4DFF5F.html",
+          "date": "2026-08-05T16:21:00"
+        },
+        "28d9a91db2fdf7f3f2f7d4f325e3e4d6b26e7a2efd01a6b099d4a85e409cb218": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Indisponibilidade de Documento de Arrecadação de Receitas Estaduais (DARE)",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/91A1424DAB750AF96518E0259544E39E9E046F09CFC657F38D7EAC22A43B75DC.pdf",
+          "date": "2026-08-05T16:19:00"
+        },
+        "86fe27231823e2740d1e796f2055f38e6b2c8f62132ab53a91127dfd74abc4d4": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 3 – Retificação do subitem 10.11.2.5.1 do Edital nº 1, bem como a exclusão do subitem 10.11.2.6 do referido edital - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/F570F59B3BEC437E5FC77FF998E194A96A8E0F450BA4CE612111C1DC5B03CE25.html",
+          "date": "2026-07-24T09:06:00"
+        },
+        "b6ce0a7883a8a14e9cc19903cf1fa138b1660d0de047473d4648e31da1c1e654": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 3 – Retificação do subitem 10.11.2.5.1 do Edital nº 1, bem como a exclusão do subitem 10.11.2.6 do referido edital",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/6813F780CA74AF94C010DC0BF39376F0368A44D92A77740269D6F37334C35019.pdf",
+          "date": "2026-07-24T09:05:00"
+        },
+        "4e6681eda176f429a741a49da82105ede6ea7b9201076cbf7dcc19c22888d369": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 2 – Retificação do subitem 13.4 e de texto constante do Anexo I do Edital nº 1 – CBM/MA - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/6B07327853EE8F37D7F2A65DA566AB13150F559074977BD8EEDE05B36FB350B3.html",
+          "date": "2026-07-17T09:01:00"
+        },
+        "faea35cfee0fd1c52ff33c6ef5ba9f386bc927f66fbfd4406a0d3e21967c7b25": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 2 – Retificação do subitem 13.4 e de texto constante do Anexo I do Edital nº 1 – CBM/MA",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/6E8346211A50529D7CB036840AE35A85DC25792AD55EB623FCE46D3C39E0DFAD.pdf",
+          "date": "2026-07-17T09:00:00"
+        },
+        "2bdb78d64c1c57e9191fd38336abfc9659a73e19287353891a12cacf320cc712": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 – Abertura, conforme retificações - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/85657B4994DE307BD6A1F438DAEF5A0C03213AABBFA667EDDA775DC21C069FED.html",
+          "date": "2026-07-10T14:04:00"
+        },
+        "74f2d3c866de2438ee6220062bc5af6ae35e1edef0d70b371863c6408903f828": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 – Abertura, conforme retificações",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/481612751BE0D87E75BBACCCBDCE7A76E6141AF324F67C8FCC3F143D1FF554C3.pdf",
+          "date": "2026-07-10T10:03:00"
+        },
+        "3fe41a7f62ff29316ce83482ee51deea5990c4f23b8973e14189fdda411c9d9d": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 – Abertura - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/A3D8142DCE748E7FB102FB9B327A9C9CD0D2A69288BF515A57D45650D361C11D.html",
+          "date": "2026-07-10T10:01:00"
+        },
+        "fba10c44828e68c606fab46df13b7ca97283c78ef5f0232d59e5b8d64acce35b": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 – Abertura",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/2F4A1EDF9D0FF7582890B07C946A2D180C6C549CE1D22ACEC9F801761735F4A6.pdf",
+          "date": "2026-07-10T10:00:00"
+        },
+        "f0de0f2157fc84e10a175813a403fbaf1d38818f47a0b7cf76c2f0097075858c": {
+          "section": "aplicativos",
+          "title": "Consulta individual às respostas aos recursos interpostos contra a relação provisória dos candidatos que solicitaram concorrer na condição de pessoa com deficiência",
+          "url": "https://security.cebraspe.org.br/CBM_MA_26/Recursos/PCD/ResultadoDefinitivo_0D9A3DDF-17A0-4ADD/",
+          "date": "2026-10-08T10:00:00"
+        },
+        "c2aa851effc19dd4948dcd4892cf75b933a7586ab905e1892ce73cfb32a1b9d6": {
+          "section": "aplicativos",
+          "title": "Consulta individual à situação final na solicitação de atendimento especializado",
+          "url": "https://security.cebraspe.org.br/CBM_MA_26/Recursos/AtendimentoEspecial/ResultadoDefinitivo_BB866311-427A-4283-A17D",
+          "date": "2026-10-01T10:00:00"
+        },
+        "e02bc067017e4935c527916f3521f4bbb3368590d84ac2a195649744b1c0f83b": {
+          "section": "aplicativos",
+          "title": "Link de consulta individual à situação final de isenção de taxa",
+          "url": "https://security.cebraspe.org.br/CBM_MA_26/Recursos/Isencao/ResultadoDefinitivo_CC4617C9-9C4D-4C7A/",
+          "date": "2026-09-03T10:00:00"
+        }
+      },
+      "last_success_utc": "2026-10-19T19:53:54.571591+00:00"
+    },
+    "PC_MA_26_INVESTIGADOR": {
+      "seen": {
+        "10800eda3927952681928d365863be30bf84e810210dfbaa51f9680b01de0645": {
+          "section": "arquivosEdital",
+          "title": "Relação final dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência – VLibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PC_MA_26_INVESTIGADOR/arquivos/BED09998CD8AEFD1A72E722806206BDD0824B43BCA6E7F7721F31C8BE0D02D6A.html",
+          "date": "2026-10-19T10:00:00"
+        },
+        "579f67a6e415472dab8af4b93966b3b5fcde495c8b49f8a1c59bd237fb3d2215": {
+          "section": "arquivosEdital",
+          "title": "Relação final dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência",
+          "url": "https://cdn.cebraspe.org.br/concursos/PC_MA_26_INVESTIGADOR/arquivos/2B6F747AA11CF0432DD78673F3C7CC81B123CE7BB5D4464421CDB0CF011906FA.pdf",
+          "date": "2026-10-19T10:00:00"
+        },
+        "b5ba1c26847c2a4fd255ecf4ca1e31931f80153c826a27df1de3f571c9dbdee8": {
+          "section": "arquivosEdital",
+          "title": "Inclusão de candidatos na relação provisória dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência – VLibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PC_MA_26_INVESTIGADOR/arquivos/7AA0D3DEB52CF54BA0AA7967F385D1AFB277792CAC77D19A702D843B144C8602.html",
+          "date": "2026-10-02T10:00:00"
+        },
+        "5b5e60c736ce6feed89c658352b3a329168a322dbff1f0fe744d40961bba9777": {
+          "section": "arquivosEdital",
+          "title": "Inclusão de candidatos na relação provisória dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência",
+          "url": "https://cdn.cebraspe.org.br/concursos/PC_MA_26_INVESTIGADOR/arquivos/7290408AB3CC21289E6B2B844E54C5C7135B31FA39988791BFB5A353C08F2EC8.pdf",
+          "date": "2026-10-02T10:00:00"
+        },
+        "a57d7013418f8d7249337e1b7d6f6080870a2a102cd1c8e9665d1d0f9eee06d2": {
+          "section": "arquivosEdital",
+          "title": "Relação provisória dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência – VLibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PC_MA_26_INVESTIGADOR/arquivos/AD7504D4B0AE2000A704D41268DA0B703D9EB2F7ACFBF9A0833A620FDAEAF7CD.html",
+          "date": "2026-09-30T10:40:00"
+        },
+        "9f60ad6f924fe9c82ea6855b7dce5e217a637f9988605e6f602e1f085cf1bffe": {
+          "section": "arquivosEdital",
+          "title": "Relação provisória dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência",
+          "url": "https://cdn.cebraspe.org.br/concursos/PC_MA_26_INVESTIGADOR/arquivos/1E8C95845CA0EC433948967BBB61193CF7F87E729E7B0E6EFDB954280C4F8ABB.pdf",
+          "date": "2026-09-30T10:40:00"
+        },
+        "6462372779b5b4f5a5faad3622cbebb4a854dd51faa7e3b19d5a10e7a88a2ba3": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Informações sobre o pagamento de taxas de inscrição – VLibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PC_MA_26_INVESTIGADOR/arquivos/4C217E4E1B3D4392A7B653CDA6DC6CAEAB626D86ED52F0EB3B69BF09CD43F12B.html",
+          "date": "2026-08-05T16:10:00"
+        },
+        "05510d062b52fdcaa5eaa90196fdae5794058407b9881bc1e6fea2157964ee49": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Informações sobre o pagamento de taxas de inscrição",
+          "url": "https://cdn.cebraspe.org.br/concursos/PC_MA_26_INVESTIGADOR/arquivos/278348922D7B21D30AFAD22D1C2CF7562DE91538887CB3EBA1B5868B135DC28D.pdf",
+          "date": "2026-08-05T16:10:00"
+        },
+        "bfefb2946d1ce419eda6347257a61feb9e02d42bf8ab64e5c98821be7221268e": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 – Abertura – VLibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PC_MA_26_INVESTIGADOR/arquivos/38200FCDA341E52A4B5E097905117D05D883EACE39D88CDA9FFF72F4287EBA65.html",
+          "date": "2026-07-13T22:00:01"
+        },
+        "54ec5443c23fe73290f2e9d0faf8b58778be03033ea9820c7a8b969543450705": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 – Abertura",
+          "url": "https://cdn.cebraspe.org.br/concursos/PC_MA_26_INVESTIGADOR/arquivos/9EE70E72CE79EB274C5319BEEB5B9B7D8519FF48DA21986A0830B5DB02C4F8B0.pdf",
+          "date": "2026-07-13T22:00:00"
+        },
+        "b52a7f684cb8a56e3dcd8cd3fcda164945dfc7c69280f8717553051d4bcf5ca6": {
+          "section": "aplicativos",
+          "title": "Consulta individual à situação final na solicitação de atendimento especializado",
+          "url": "https://security.cebraspe.org.br/PC_MA_26_INVESTIGADOR/Recursos/AtendimentoEspecial/ResultadoDefinitivo_8FB6209E-CEF8-4846-A9A9",
+          "date": "2026-10-19T10:00:00"
+        },
+        "7bde3c753ce387cdce1fb3aa052c9e51de903e25127aea7194b03257ca2cbe54": {
+          "section": "aplicativos",
+          "title": "Link de consulta individual à situação final de isenção de taxa",
+          "url": "https://security.cebraspe.org.br/PC_MA_26_INVESTIGADOR/Recursos/Isencao/ResultadoDefinitivo_DAA8E434-7608-44D3-8598",
+          "date": "2026-09-10T10:00:00"
+        }
+      },
+      "last_success_utc": "2026-10-19T19:53:56.099062+00:00"
+    },
+    "PM_MA_26": {
+      "seen": {
+        "ac23eb0319b6f8ad15fdfe52bbccc15800bd4a59600d4c616b81b5a756300c0c": {
+          "section": "arquivosEdital",
+          "title": "Quantitativo de inscritos por sistema de concorrência",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/064ACC9640F6DB159277D5767207509F650991C975630848B37088B9AEEE344F.pdf",
+          "date": "2026-10-05T16:55:00"
+        },
+        "08940f3a62d72fd03d0876102ff146dd8dd831f4e000e9adf3fdcc0f4b2af191": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Inclusão do município de Timon/MA como local de aplicação das provas objetivas",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/533184F95C22B028E01DA8B4E49749BD052E9F42D76B4CCEF2F28E7191CE8CC5.pdf",
+          "date": "2026-10-02T15:02:00"
+        },
+        "45ca3eba619005af1fd26969dd35db6856a787711af4dce325e49de080e7fa6d": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Inclusão do município de Timon/MA como local de aplicação das provas objetivas - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/12A7EF6880ED0A0619AE117489F5AA324B1C793D18D7A3D7ECC685CFAD4338E9.html",
+          "date": "2026-10-02T15:02:00"
+        },
+        "fd5d3410472a5ca7b8e6b124e7085461a604426087c14d75753b026a88369494": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 7 – Locais e horários - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/FB39EC7FA308ACDFC5197BB23DDEEDB87DAEBD579BB55C161DD5D918239A6C50.html",
+          "date": "2026-09-30T09:51:00"
+        },
+        "1ee439368aaa842ef055333be290da4cabd4630ee24b83d2ed357962a11ef3fb": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 7 – Locais e horários",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/8515D055B73C244F8F23383A100743FB9D36B08954BFDDF2A1BF0A565D774346.pdf",
+          "date": "2026-09-30T09:50:00"
+        },
+        "703d069881aa4eefbc304fb500c144386dd0969bfccdc4a4004f5c4313047521": {
+          "section": "arquivosEdital",
+          "title": "Relação final dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/D7BBA5C4AE603D2F2EF18986123301D8A4A63C97A7E48BE5D955DF17DF65AB8C.html",
+          "date": "2026-09-25T10:52:00"
+        },
+        "8b46d03622f388d8e733238f7859745f5e661a68b6df776c62dac7dd281faa01": {
+          "section": "arquivosEdital",
+          "title": "Relação final dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/9F852999B255C69EDFC66BBA022E9A7B6FD10B6B047EBE3C81C26C2892300E13.pdf",
+          "date": "2026-09-25T10:51:00"
+        },
+        "49b91ec50a757307602763dfda5c413225c1be400765af3d397420249261e76a": {
+          "section": "arquivosEdital",
+          "title": "Relação provisória dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência, sem considerar pagamentos efetivados e pedidos de isenção de taxa de inscrição - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/F569528DD03397C5495C3CF2D344252A8182B9C20197C3A990B312812AC484A3.html",
+          "date": "2026-09-16T09:59:00"
+        },
+        "f8ba34912b4c85a33cbd59e0e8e6c99e44a16027797807266567e28c1321c02d": {
+          "section": "arquivosEdital",
+          "title": "Relação provisória dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência, sem considerar pagamentos efetivados e pedidos de isenção de taxa de inscrição",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/4CF56C5230D1E68FD8E1FDE2308BE0844BCA8F6B1CB223460667B8347365749C.pdf",
+          "date": "2026-09-16T09:58:00"
+        },
+        "d23b813948113f0d80b8478415b06c2a41c26503ef6c11797dc9e23b083945aa": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Instruções relacionadas ao Documento de Arrecadação de Receitas Estaduais (DARE) - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/0249737487FA1F45AE0FC4FD508100D26E69284B99AE53BAB2ED97150717BB29.html",
+          "date": "2026-09-10T19:04:00"
+        },
+        "7c60e1b75f09798d1e81b6e9d1a7c32efbd67a865f329f13d72d8c72e12655ec": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Instruções relacionadas ao Documento de Arrecadação de Receitas Estaduais (DARE)",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/6AE6D795D9A6814C6147DEDFDEAA83407BE9F7B97FB4630FA5AFCDAF12FBB10E.pdf",
+          "date": "2026-09-10T19:03:00"
+        },
+        "86a5190d1fb4695d0f4322d8ea785cac619af159313679e6e65b7c735cec0506": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 6 - Prorrogação da data de pagamento da taxa de inscrição - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/4124F02954F68DBA12F2BAA97C79AD1DBB6372D350D3119CBC292D16EE18F45B.html",
+          "date": "2026-09-10T17:34:00"
+        },
+        "3841eca9f6554d0a728230c7d110363870b5589c8b78df4a4f1a0d449e776ee9": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 6 – Prorrogação da data de pagamento da taxa de inscrição",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/193CF7EEA9560785742A9C71D49592CC45F38DA34D94BA665B21674737C0B666.pdf",
+          "date": "2026-09-10T17:33:00"
+        },
+        "819890a4566ef312dd446deaff3b21228ef53f56fd0e50c9616f3577e1e37be5": {
+          "section": "arquivosEdital",
+          "title": "Comunicado - Prazo para o pagamento da taxa de arrecadação - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/0FD36EDAC1DEE5902F3ECA9857CE743C30C5EA872A87DAEBB431462F0C82861C.html",
+          "date": "2026-09-08T18:37:00"
+        },
+        "f8f8d2c1c4b10fdbfc5d0518a0f68e503181ae6cb6215d3b337d3bfc0a3f955a": {
+          "section": "arquivosEdital",
+          "title": "Comunicado - Disponibilidade do Documento de Arrecadação de Receitas Estaduais (DARE) para pagamento da taxa de inscrição",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/585FD0A08C270C6B7A4BE8FB90006837E28695106962CC8C31079453A2369A1A.pdf",
+          "date": "2026-08-12T19:01:00"
+        },
+        "85a70741c83baaa4d453bce80e986ec24df1be07671c5c36580919ee61d897ea": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 5 – Prorrogação do prazo para o envio de documentação e retificação de datas - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/D1E9528F83FFBEE167B870A5700E6DC93238E8940540C2CB9D5ED01148110FCD.html",
+          "date": "2026-08-07T17:13:00"
+        },
+        "e5e2a55fab2fec7c0d0d5a019fb1e09996ba40f7a0c316dd191800cf48546542": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 5 – Prorrogação do prazo para o envio de documentação e retificação de datas",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/70D11038E2D356E08931CD964EF2D1BA3B2942788E233DAA502321804675F43B.pdf",
+          "date": "2026-08-07T17:12:00"
+        },
+        "dafb87ab24ec41ad010291f5b95ccb93600988f8eb62db60c00a81ef641db0b4": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Indisponibilidade de Documento de Arrecadação de Receitas Estaduais (DARE) - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/81EADBE5CC9B27F06BBFF2E2041B2010C0530EA661F1A2E80679BD85A7249E8A.html",
+          "date": "2026-08-05T16:11:00"
+        },
+        "58b5675db223dacfe1d8a0a90846e09b1bbc0a08b971831d809c0daf4fa60f80": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Indisponibilidade de Documento de Arrecadação de Receitas Estaduais (DARE)",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/CB85F3D5442F33DC7628D088DB633630FEAF1223256F5A81543ACD16A270E4F2.pdf",
+          "date": "2026-08-05T16:09:00"
+        },
+        "d1e810e5b5d3594ee4477fd15d9813b8ac23b2f584be417b3a94eacab9330748": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 4 – Retificação do agrupamento de cargos constante do subitem 17.2 do Edital nº 1 - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/9E156F593386288647970C60C186708804F38CF596AA1CAF874F1590B6DBA94E.html",
+          "date": "2026-07-24T09:10:00"
+        },
+        "41296595fde6c142d3acea40fbc8e2c3f7c765e3949b74b51923a7b8df9e5f62": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 4 – Retificação do agrupamento de cargos constante do subitem 17.2 do Edital nº 1",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/8C0B4D0BA8E3F6ACE0A210899F5B4E2F6B4F08EF282D72022696BB5FE51465AA.pdf",
+          "date": "2026-07-24T09:09:00"
+        },
+        "a3a2c1bdf9d1e5d02c99a4c499de9d709a328cdebebbe2c5350b610ad4fd5acb": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 3 – Retificação dos quadros constantes dos subitens 4.1 e 8.13.6 do Edital nº 1 – PMMA - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/DF94C93FB423E327B620EDEE52E4C5612ADDB7872AB2AB483F27CB9C9D2CAFCA.html",
+          "date": "2026-07-17T18:23:00"
+        },
+        "7e600e7bd3270419980befcc7462442f879306e68bcbdda55d7a4ed4af659fea": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 3 – Retificação dos quadros constantes dos subitens 4.1 e 8.13.6 do Edital nº 1 – PMMA",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/3CDF09C4A4BD2454288DF5D658D37DE798D3F066A9A7F6D6451D4838227FB59C.pdf",
+          "date": "2026-07-17T18:22:00"
+        },
+        "9a8cac66c5bde918a1ada3a97c2510fec22b480c03db70deddabc584a2619449": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 2 – Retificações - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/7513B8B9F5C862D7382ECA938508F5DA0FF85314902903D8B0F2EC2219888DD2.html",
+          "date": "2026-07-17T17:07:00"
+        },
+        "14f957a5b326f65dd3f188f00a123800aabe7c0cd69d0286499cc162237aeae1": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 2 – Retificações",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/07592519C773FEF7194EE761A3297FFA634CFE6D275B6F875BF8C9C4DF06FD11.pdf",
+          "date": "2026-07-17T17:06:00"
+        },
+        "8c45b578c6c6489d54fa55e018511e2f1bcf4eb34e09c3bd0b2fbf6be5f0b454": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 – Abertura, conforme retificações - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/FCD6813527138F170E6C5D454DC8826E6BB71E5E7D31CD1D49F2E4EAFC2B760A.html",
+          "date": "2026-07-10T10:03:00"
+        },
+        "f5ad059d4d9c27cb151583bcc686e32a9c30a89a1a5b1b8ea7d1ce8087762d1f": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 – Abertura, conforme retificações",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/55ED07E38D2C967F87CE0B0A96BD0B63C11503459AC788C401A25D534AF98A38.pdf",
+          "date": "2026-07-10T10:02:00"
+        },
+        "eac44c845f6bfc96d2217a4057f3530cd8d10166a30b5b4aea5b16d09e2ca9d1": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 – Abertura - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/DBFC780D522615015AAE58E4C7C741206D676C56B1AA5243255C8DAFE4E15578.html",
+          "date": "2026-07-10T10:01:00"
+        },
+        "a574ec463378ebe2d316d90716399d88ce3bb2544ec49ddd12abb9552f3f6c25": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 – Abertura",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/0D18A37FF7787E4389E776EBBFD096137879457949085D7FCE6FA75C174E510B.pdf",
+          "date": "2026-07-10T10:00:00"
+        },
+        "019c98136e51522e861da5b6be4781b7ee9d18dddb9a1511f41b357c1a20e58f": {
+          "section": "arquivosGabarito",
+          "title": "PROVA OBJETIVA – CONHECIMENTOS GERAIS PARA O CARGO 1",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/2BD20327ADB11C02921463426A2191602087FCEF6B074E0224F6A30AD455CBAB.pdf",
+          "date": "2026-10-16T19:00:00"
+        },
+        "d7b2c6090f375c50d7e391983709365b5a9234507d597530bab08719678390f3": {
+          "section": "arquivosGabarito",
+          "title": "PROVA OBJETIVA – CONHECIMENTOS GERAIS PARA OS CARGOS DE 2 A 12",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/EE3D215A5CF12F282D0A612CF7A10FB1B2523AA2D225DA82E8D52441694A008E.pdf",
+          "date": "2026-10-16T19:00:00"
+        },
+        "2c9ccad15f47d804cae3e7f259c306e2fc398797ff877e9da9f65543523711f2": {
+          "section": "arquivosGabarito",
+          "title": "PROVA OBJETIVA – CONHECIMENTOS ESPECÍFICOS – CARGO 1",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/10872F825D02C6880B51CF35ABFA56C48E2812B4BC061C21027EA38E4CFE1228.pdf",
+          "date": "2026-10-16T19:00:00"
+        },
+        "098f21942c7a4250e3a47085c07616a4783ab2cb69697c213e218d1f07a7c6ba": {
+          "section": "arquivosGabarito",
+          "title": "PROVA OBJETIVA – CONHECIMENTOS ESPECÍFICOS PARA OS CARGOS DE 2 A 12",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/17A5074E57DEF0F85AA70F72BBC68B87F9812CA89B2A4A32576D6866F9BD89C0.pdf",
+          "date": "2026-10-16T19:00:00"
+        },
+        "7343434c3887da32b63cedc3b7f6903e954fdd303c4e8a6bfae254d7763506f5": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO PRELIMINAR – CONHECIMENTOS GERAIS PARA O CARGO 1",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/1DF701FC39F509E90561636DF24C0837EFB556BBE9C104364BCEF74D2B3D37A5.pdf",
+          "date": "2026-10-16T19:00:00"
+        },
+        "7093122c6504221a8741d690543a6534fe7dbc9fcc67d6624fffca749c363961": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO PRELIMINAR – CONHECIMENTOS GERAIS PARA OS CARGOS DE 2 A 12",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/2087F6DD04F8EDC12A1490C504FBE6A1F95DF9197961AF58DFF541D4C446C9CA.pdf",
+          "date": "2026-10-16T19:00:00"
+        },
+        "b0b1edd38fd7f782a764c1c4338da680dd95c890b9804035cfcd46164c37e956": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO PRELIMINAR – CONHECIMENTOS ESPECÍFICOS – CARGO 1",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/B967D2263103EF1FA4222390B5EDF2A1C7EC58F503720276396AB763A0FCC84F.pdf",
+          "date": "2026-10-16T19:00:00"
+        },
+        "1c5bfa9f1ea83cf8a4edb0374f43f5114a743676802f1e446191a50e1a26f1ba": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO PRELIMINAR – CONHECIMENTOS ESPECÍFICOS PARA OS CARGOS DE 2 A 12",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/341A59D3A1D51B18B2C85737FB570A4E9BC604B2CA5968F30787A06B89FA771D.pdf",
+          "date": "2026-10-16T19:00:00"
+        },
+        "48da1e84375ab7e2b9488d0142d9a1e91a6b622b9337ec297e007d379005b1a2": {
+          "section": "arquivosGabarito",
+          "title": "Comunicado - Prazo para o pagamento da taxa de arrecadação",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/3D92D34D67375880CB7089C4CAA0AF63C4CBED9268A4495335E494E11F9438BB.pdf",
+          "date": "2026-09-08T18:36:00"
+        },
+        "91e93fcf6050480cad0f04917b5c4f8716fcdde5f86f0c699e0eae3e0728d167": {
+          "section": "aplicativos",
+          "title": "Consulta individual às respostas aos recursos interpostos contra a relação provisória dos candidatos que solicitaram concorrer na condição de pessoa com deficiência",
+          "url": "https://security.cebraspe.org.br/PM_MA_26/Recursos/PCD/ResultadoDefinitivo_1946FDF3-CB67-481B-852F",
+          "date": "2026-10-01T10:00:00"
+        },
+        "e92d27ffa91983392007039f08e78a214fcc0105bce352f7726ce3d4a856ffcc": {
+          "section": "aplicativos",
+          "title": "Link de consulta individual à situação final de atendimento especializado - SEM CONSIDERAR PAGAMENTO",
+          "url": "https://security.cebraspe.org.br/PM_MA_26/Recursos/AtendimentoEspecial/ResultadoDefinitivo_351DD7E4-2200-4E2F-B01D",
+          "date": "2026-09-25T10:00:00"
+        },
+        "5c9514bf839df0a6f2e7e0fa363ac2ed3ea1484fdf69611ab221d49f697ce77e": {
+          "section": "aplicativos",
+          "title": "Link de consulta individual à situação final de isenção de taxa",
+          "url": "https://security.cebraspe.org.br/PM_MA_26/Recursos/Isencao/ResultadoDefinitivo_3947DFDB-CB7D-4BB2-BE10",
+          "date": "2026-09-03T10:00:00"
+        }
+      },
+      "last_success_utc": "2026-10-19T19:53:57.761006+00:00"
+    },
+    "SEAP_MA_26_INSPETOR_MONITOR": {
+      "seen": {
+        "ff64aea7a3c3c1bfa76f023588fad44ef0b78a8331645d84c64d556c7fccc398": {
+          "section": "arquivosEdital",
+          "title": "Relação provisória dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência - Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/D2C1D4C151773C39A080EBECB5F9ABB59F8A771162CEB5DA439C7C2874E371F2.html",
+          "date": "2026-10-14T15:00:01"
+        },
+        "30c8ffcd145f56a043ec5792090fbf90ea7fb8113fe34f1c1a7c23f5e172dd73": {
+          "section": "arquivosEdital",
+          "title": "Relação provisória dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/A293405D8E1C502CC64586A899B1D5FD3249F9C5318CA99C2ECB590ED71B2BE6.pdf",
+          "date": "2026-10-14T15:00:00"
+        },
+        "303bc7f220c36f4892788a10d42ab3d30f44756b9af41f36a232c3e621bdcc36": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 2 - Retificação de datas constante do Anexo I – Cronograma Previsto do Edital nº 1 – SEAP/MA – Inspetor e Monitor - Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/D48DDA960144155C9C2359FE6CF7527C419DF40EDAEFA9208C7FE7F97099E1A5.html",
+          "date": "2026-09-24T16:15:01"
+        },
+        "fc55294369b190e911056023cedc0487c70ffb906e075d2f34f9d68b4600a3c3": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 2 - Retificação de datas constante do Anexo I – Cronograma Previsto do Edital nº 1 – SEAP/MA – Inspetor e Monitor",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/8CADBDA48CC9DE5839E311C138294BE928DE39EB4176715B03DAF764D8C466D3.pdf",
+          "date": "2026-09-24T16:15:00"
+        },
+        "7503bf3c19a68171ae5aa2f61b2854086766d157651a483ee5be932de9d6f687": {
+          "section": "arquivosEdital",
+          "title": "Comunicado - Prazo para o pagamento da taxa de arrecadação - Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/06C3DC2A2AD8A147660C387DC0827BA2D864D41263799045923D5E2AD6C6360C.html",
+          "date": "2026-09-22T19:00:01"
+        },
+        "5dcaeaa94d834a0e04564d827766c991c3262b6e9e0a7fb54450f373d9c8e665": {
+          "section": "arquivosEdital",
+          "title": "Comunicado - Prazo para o pagamento da taxa de arrecadação",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/D5CA1CD8579246C6E8BD1D74676A1D2D732084EB694941BF1A3FC9012943642E.pdf",
+          "date": "2026-09-22T19:00:00"
+        },
+        "11c1a2556c855971b8a301d29cd8621675625881de5e7266f03d7015a7130c39": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Indisponibilidade de Documento de Arrecadação de Receitas Estaduais (DARE) - Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/6E07F6163B2F016EDEE674CE2F3B7BF4F73B5F056FC11468FB014FB086AA11DF.html",
+          "date": "2026-08-05T16:20:01"
+        },
+        "52369f2cd58e06c23c836645780a948e6d7788917a79dfcceb1415b3b4cda9bb": {
+          "section": "arquivosEdital",
+          "title": "Comunicado – Indisponibilidade de Documento de Arrecadação de Receitas Estaduais (DARE)",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/CB9F18DF136889BF78A5ED44A87D36DF6DF37381E696EF89FDEBCB469D2BC05F.pdf",
+          "date": "2026-08-05T16:20:00"
+        },
+        "46b4a494dffc13eba1222267349657176a1d628bebfe8b34f4e5c568ea630592": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 – Abertura, conforme retificações - Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/BCA284B973ABFBE15BC9D0179F3F67C779E9778E4F4D7397C6E33251ECA0A605.html",
+          "date": "2026-07-21T14:00:11"
+        },
+        "9d23e532a7a38596c44ba0ab73276c515bfce2fa98d2f639cdf9866f13ed0941": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 – Abertura, conforme retificações",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/F4128FEF48467ECD44F454AF1C39E7723829034486E0BE2BF1D1B803914B8742.pdf",
+          "date": "2026-07-21T14:00:10"
+        },
+        "8895bb63af950d62864c4a699b7dab999558806381c37612b1ee43f641aa48b0": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 - Abertura - Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/0B420FD266CEE857D612CBA1F1E458ED792C1AB7CAE3019E9198BB6976D9B7DC.html",
+          "date": "2026-07-21T14:00:01"
+        },
+        "33eb0d116545b08b0f49e367d6b8584d324c0adec9ed754d5b268041855745f3": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 1 - Abertura",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/C71C65D760BE4B840499E08A82681558C961C7A4B0CA9946B042E45A98C59CA9.pdf",
+          "date": "2026-07-21T14:00:00"
+        },
+        "e81bfb4a5ca59165eafc7033a890188ec088e9f4ffc74b2166ed78bae2e9a200": {
+          "section": "aplicativos",
+          "title": "Consulta individual à situação provisória na solicitação de atendimento especializado",
+          "url": "https://security.cebraspe.org.br/SEAP_MA_26_INSPETOR_MONITOR/Recursos/AtendimentoEspecial/ResultadoProvisorio_3AB75A8A-4A7F/",
+          "date": "2026-10-14T10:00:00"
+        },
+        "c9be94ec8671a053a192b2cb9684c27fb9f003b4fb0b5f7e0eafba17aee16a74": {
+          "section": "aplicativos",
+          "title": "Consulta individual ao espelho definitivo e(ou) as respostas aos recursos interpostos contra a relação provisória dos candidatos com a solicitação de isenção de taxa de inscrição deferida",
+          "url": "https://security.cebraspe.org.br/SEAP_MA_26_INSPETOR_MONITOR/Recursos/Isencao/ResultadoDefinitivo_8BFAEE32-170B-456D-848B",
+          "date": "2026-09-18T10:00:00"
+        }
+      },
+      "last_success_utc": "2026-10-19T19:53:59.329693+00:00"
+    }
+  }
+}
