@@ -170,9 +170,15 @@
           "title": "Link de consulta individual à situação final de isenção de taxa",
           "url": "https://security.cebraspe.org.br/CBM_MA_26/Recursos/Isencao/ResultadoDefinitivo_CC4617C9-9C4D-4C7A/",
           "date": "2026-09-03T10:00:00"
+        },
+        "64f5bcb38b05bf63e4ed62aa64ba7bcdaf1e0ed006f93a043a2d540ef36f8bcb": {
+          "section": "aplicativos",
+          "title": "Consulta individual aos gabaritos oficiais preliminares das provas objetivas e ao caderno de provas",
+          "url": "https://security.cebraspe.org.br/CBM_MA_26/Recursos/Objetiva/GabaritoPreliminar_A6A6CADA-E91C-4E7B-943A",
+          "date": "2026-10-20T19:00:00"
         }
       },
-      "last_success_utc": "2026-10-20T21:35:41.609298+00:00"
+      "last_success_utc": "2026-10-21T00:08:22.321306+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -249,7 +255,7 @@
           "date": "2026-09-10T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-20T21:35:42.605632+00:00"
+      "last_success_utc": "2026-10-21T00:08:23.225605+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -500,7 +506,7 @@
           "date": "2026-09-03T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-20T21:35:43.753643+00:00"
+      "last_success_utc": "2026-10-21T00:08:24.294498+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -589,7 +595,7 @@
           "date": "2026-09-18T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-20T21:35:44.419151+00:00"
+      "last_success_utc": "2026-10-21T00:08:25.245733+00:00"
     }
   }
 }
