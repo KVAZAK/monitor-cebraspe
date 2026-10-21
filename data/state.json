@@ -176,9 +176,21 @@
           "title": "Consulta individual aos gabaritos oficiais preliminares das provas objetivas e ao caderno de provas",
           "url": "https://security.cebraspe.org.br/CBM_MA_26/Recursos/Objetiva/GabaritoPreliminar_A6A6CADA-E91C-4E7B-943A",
           "date": "2026-10-20T19:00:00"
+        },
+        "f231cd06fa601e5dffb09c25dc735080f4e7814759cb4395cf0cebe5c885d072": {
+          "section": "aplicativos",
+          "title": "Manifestações a favor dos gabaritos oficiais preliminares das provas objetivas",
+          "url": "https://security.cebraspe.org.br/CBM_MA_26/Recursos/Objetiva/RecursoManutencaoGabarito_8F9EA322-CB88-4A2F-92BE",
+          "date": "2026-10-21T10:00:00"
+        },
+        "5d3327aee968f9470f2fbc9dff42463291904d6cf55882a935a6e8b75c0e1c8a": {
+          "section": "aplicativos",
+          "title": "Recursos contra os gabaritos oficiais preliminares das provas objetivas",
+          "url": "https://security.cebraspe.org.br/CBM_MA_26/Recursos/Objetiva/Recurso_DD002DB0-B7CE-4B30-AC65",
+          "date": "2026-10-21T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-21T09:39:44.729826+00:00"
+      "last_success_utc": "2026-10-21T14:40:45.026204+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -255,7 +267,7 @@
           "date": "2026-09-10T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-21T09:39:45.744631+00:00"
+      "last_success_utc": "2026-10-21T14:40:45.694019+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -506,7 +518,7 @@
           "date": "2026-09-03T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-21T09:39:46.565607+00:00"
+      "last_success_utc": "2026-10-21T14:40:46.817719+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -595,7 +607,7 @@
           "date": "2026-09-18T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-21T09:39:47.543540+00:00"
+      "last_success_utc": "2026-10-21T14:40:47.807513+00:00"
     }
   }
 }
