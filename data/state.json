@@ -188,9 +188,45 @@
           "title": "Recursos contra os gabaritos oficiais preliminares das provas objetivas",
           "url": "https://security.cebraspe.org.br/CBM_MA_26/Recursos/Objetiva/Recurso_DD002DB0-B7CE-4B30-AC65",
           "date": "2026-10-21T10:00:00"
+        },
+        "9a61b97bf02973e51eb0daadd7e775a5e8dde94678ed7c4b4b9ccf4d183af825": {
+          "section": "arquivosGabarito",
+          "title": "PROVA OBJETIVA – CONHECIMENTOS GERAIS PARA TODOS OS CARGOS",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/4AE26D51C7FD5858CCF094D8636E118791DCB2CB6AE2E893D6C305099852AC6C.pdf",
+          "date": "2026-10-23T19:00:00"
+        },
+        "f42a24c82bbb0b1daa7273d0febed3968dfecef7e84e79e8d10f8a4acbdb81ea": {
+          "section": "arquivosGabarito",
+          "title": "PROVA OBJETIVA – CONHECIMENTOS ESPECÍFICOS – CARGO 1",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/AB6FEF235BBBD258BE7F6DDE839B60EC2E1C0A2B51ABE6FF37D6B7528877F68C.pdf",
+          "date": "2026-10-23T19:00:00"
+        },
+        "c1faf54c001a165c362810e93b24b8f0bb5758e8e9be392acaf58b87efeb404c": {
+          "section": "arquivosGabarito",
+          "title": "PROVA OBJETIVA – CONHECIMENTOS ESPECÍFICOS PARA OS CARGOS DE 2 A 12",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/01792820CDDCF37A0573D7F5451A3BE232096576AEAA77A18625651A87747208.pdf",
+          "date": "2026-10-23T19:00:00"
+        },
+        "1446605786f060506aa446db457267ec4269f71e98e9c7266c964212d9bcbb0f": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO PRELIMINAR – CONHECIMENTOS GERAIS PARA TODOS OS CARGOS",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/0E2C77A5F9188E063999AED961406E4C6467D4B4938D1BE9456CEAF3CCF4D214.pdf",
+          "date": "2026-10-23T19:00:00"
+        },
+        "07113645831a8e9d0db55387a85a1b9ce139ee9db21b5088e732d9ba7cd78f4d": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO PRELIMINAR – CONHECIMENTOS ESPECÍFICOS – CARGO 1",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/D86EB18A2C67289512FFF7A2066598F5F4473FA3F1D14866488EB88A12144F5F.pdf",
+          "date": "2026-10-23T19:00:00"
+        },
+        "64510b1a58d0a92b9b765c93ece30d19da051d6dc1070e2bb3c59044476ad525": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO PRELIMINAR – CONHECIMENTOS ESPECÍFICOS PARA OS CARGOS DE 2 A 12",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/2F768429E178077625396A8AA8F36F2BD15FCD1D0D6CBC02C31F718D99B9D064.pdf",
+          "date": "2026-10-23T19:00:00"
         }
       },
-      "last_success_utc": "2026-10-23T21:23:07.393235+00:00"
+      "last_success_utc": "2026-10-24T00:01:44.068862+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -267,7 +303,7 @@
           "date": "2026-09-10T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-23T21:23:08.301667+00:00"
+      "last_success_utc": "2026-10-24T00:01:45.023872+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -518,7 +554,7 @@
           "date": "2026-09-03T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-23T21:23:09.357585+00:00"
+      "last_success_utc": "2026-10-24T00:01:46.109727+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -607,7 +643,7 @@
           "date": "2026-09-18T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-23T21:23:10.295152+00:00"
+      "last_success_utc": "2026-10-24T00:01:47.012856+00:00"
     }
   }
 }
