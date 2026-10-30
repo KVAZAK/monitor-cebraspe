@@ -226,7 +226,7 @@
           "date": "2026-10-23T19:00:00"
         }
       },
-      "last_success_utc": "2026-10-30T09:57:48.749769+00:00"
+      "last_success_utc": "2026-10-30T16:41:32.774328+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -309,7 +309,7 @@
           "date": "2026-10-26T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-30T09:57:49.875108+00:00"
+      "last_success_utc": "2026-10-30T16:41:33.774153+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -560,7 +560,7 @@
           "date": "2026-09-03T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-30T09:57:51.423155+00:00"
+      "last_success_utc": "2026-10-30T16:41:34.906724+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -647,9 +647,27 @@
           "title": "Consulta individual ao espelho definitivo e(ou) as respostas aos recursos interpostos contra a relação provisória dos candidatos com a solicitação de isenção de taxa de inscrição deferida",
           "url": "https://security.cebraspe.org.br/SEAP_MA_26_INSPETOR_MONITOR/Recursos/Isencao/ResultadoDefinitivo_8BFAEE32-170B-456D-848B",
           "date": "2026-09-18T10:00:00"
+        },
+        "5f41fd61ca0527c1c44117c7edd7e4cf817b788583513c40aaff4f1ce47e56ee": {
+          "section": "arquivosEdital",
+          "title": "Relação final dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência - Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/1773231473489CA9C41F97DD8C808436C547BB4FB64D6388F4F8F5B8F8344C79.html",
+          "date": "2026-10-30T10:15:01"
+        },
+        "2bd9ec16a9f04935dd336708c5ed2903d811f15603196c3d020e87aed06686ce": {
+          "section": "arquivosEdital",
+          "title": "Relação final dos candidatos com a inscrição deferida para concorrer às vagas reservadas às pessoas com deficiência",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/C9466AB0829E6387757BD1BF823B11A7659160E0B4D99A15325D70D51783B56E.pdf",
+          "date": "2026-10-30T10:15:00"
+        },
+        "b9455d0596cd5a709011570a126309846028c072cd02726b55ff6bc7f31394ac": {
+          "section": "aplicativos",
+          "title": "Consulta individual à situação final na solicitação de atendimento especializado",
+          "url": "https://security.cebraspe.org.br/SEAP_MA_26_INSPETOR_MONITOR/Recursos/AtendimentoEspecial/ResultadoDefinitivo_956646DB-C245-4162-9FDA",
+          "date": "2026-10-30T10:00:00"
         }
       },
-      "last_success_utc": "2026-10-30T09:57:52.542190+00:00"
+      "last_success_utc": "2026-10-30T16:41:41.261593+00:00"
     }
   }
 }
