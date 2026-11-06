@@ -226,7 +226,7 @@
           "date": "2026-10-23T19:00:00"
         }
       },
-      "last_success_utc": "2026-11-06T11:30:09.784207+00:00"
+      "last_success_utc": "2026-11-06T18:28:27.043651+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -309,7 +309,7 @@
           "date": "2026-10-26T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-06T11:30:10.680861+00:00"
+      "last_success_utc": "2026-11-06T18:28:27.663965+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -560,7 +560,7 @@
           "date": "2026-09-03T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-06T11:30:11.510002+00:00"
+      "last_success_utc": "2026-11-06T18:28:29.053332+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -665,9 +665,15 @@
           "title": "Consulta individual à situação final na solicitação de atendimento especializado",
           "url": "https://security.cebraspe.org.br/SEAP_MA_26_INSPETOR_MONITOR/Recursos/AtendimentoEspecial/ResultadoDefinitivo_956646DB-C245-4162-9FDA",
           "date": "2026-10-30T10:00:00"
+        },
+        "050470cf14cd881c2886871a84c0996ed00e395fb9467d1764e27b74ad8006a5": {
+          "section": "aplicativos",
+          "title": "Consulta individual às respostas aos recursos interpostos contra a relação provisória dos candidatos que solicitaram concorrer na condição de pessoa com deficiência",
+          "url": "https://security.cebraspe.org.br/SEAP_MA_26_INSPETOR_MONITOR/Recursos/PCD/ResultadoDefinitivo_E8E0FC8C-DB17-42CA/",
+          "date": "2026-11-06T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-06T11:30:12.326404+00:00"
+      "last_success_utc": "2026-11-06T18:28:32.129738+00:00"
     }
   }
 }
