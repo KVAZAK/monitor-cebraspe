@@ -226,7 +226,7 @@
           "date": "2026-10-23T19:00:00"
         }
       },
-      "last_success_utc": "2026-11-10T10:27:01.405432+00:00"
+      "last_success_utc": "2026-11-10T18:16:12.016610+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -309,7 +309,7 @@
           "date": "2026-10-26T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-10T10:27:02.353253+00:00"
+      "last_success_utc": "2026-11-10T18:16:12.941883+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -558,9 +558,51 @@
           "title": "Link de consulta individual à situação final de isenção de taxa",
           "url": "https://security.cebraspe.org.br/PM_MA_26/Recursos/Isencao/ResultadoDefinitivo_3947DFDB-CB7D-4BB2-BE10",
           "date": "2026-09-03T10:00:00"
+        },
+        "f64f1a9acfa0395ae237e9c08406c231a623fa92d07345d435f37b08a2dece8d": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 8 – Resultado final nas provas objetivas, convocação para a avaliação de saúde, para a avaliação biopsicossocial dos candidatos que solicitaram concorrer às vagas reservadas às pessoas com deficiência e a convocação para o procedimento de heteroidentificação complementar à autodeclaração dos candidatos negros - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/9D6DF7F312A003D31BF4E434DC09A67B07E404F9C53B0F783229EFDEFCB18647.html",
+          "date": "2026-11-10T09:24:00"
+        },
+        "573937f8f6387004c7919290f9dacb2a6a645b7a3d7857c7b5bc235eab99d7d0": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 8 – Resultado final nas provas objetivas, convocação para a avaliação de saúde, para a avaliação biopsicossocial dos candidatos que solicitaram concorrer às vagas reservadas às pessoas com deficiência e a convocação para o procedimento de heteroidentificação complementar à autodeclaração dos candidatos negros",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/45C834502AE51291DF90DD2BB1BF93AE2D81354B284A5CB8E049035FE05DB85D.pdf",
+          "date": "2026-11-10T09:23:00"
+        },
+        "9e0fcccb064f9b70020f5b44b3fc5aa4deed9886e1fcc1541fa8f1177d86c7b3": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO DEFINITIVO – CONHECIMENTOS GERAIS PARA O CARGO 1",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/07632E794FE98F91C9FEDBA147702CCC1CFB2C307727E98394EE440B43596F34.pdf",
+          "date": "2026-11-10T10:00:00"
+        },
+        "51422af2afc4ea57b191103aff9cc9c29ba0a95e04e4c1c868ef22982880fd92": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO DEFINITIVO – CONHECIMENTOS GERAIS PARA OS CARGOS DE 2 A 12",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/814128F9650C2D2277FBB4E8CB90483D5DDB5CAC129DB82A1EFE097E92F986D5.pdf",
+          "date": "2026-11-10T10:00:00"
+        },
+        "056e9e8ae42677c6738b98cb49f4814ab41ef758121e1526f370ae8e35933d3d": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO DEFINITIVO – CONHECIMENTOS ESPECÍFICOS – CARGO 1",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/BBEA8C47F247E0F63DC4F6D5115C88D732F0C216DF4FE5F21F86646BCBB1A55D.pdf",
+          "date": "2026-11-10T10:00:00"
+        },
+        "ccccfc56a9e532db539110683a3cba0d4d3f12c8fea428bd89893602d91fc25a": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO DEFINITIVO – CONHECIMENTOS ESPECÍFICOS PARA OS CARGOS DE 2 A 12",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/73A45466B34A6302E0E80D17BC29620CCAF47ED77B4B0E8D3C95034B98E790E1.pdf",
+          "date": "2026-11-10T10:00:00"
+        },
+        "f7e943d9c5bb3194e4d88e237f8587b78d8c79450af4a8300ad4a860b3eabb0c": {
+          "section": "aplicativos",
+          "title": "Consulta individual aos gabaritos oficiais definitivos das provas objetivas, ao caderno de prova e a folha de respostas",
+          "url": "https://security.cebraspe.org.br/PM_MA_26/Recursos/Objetiva/GabaritoDefinitivo_21A9EAA8-9C8A-4C4C-BC84",
+          "date": "2026-11-10T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-10T10:27:03.516422+00:00"
+      "last_success_utc": "2026-11-10T18:16:25.909432+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -673,7 +715,7 @@
           "date": "2026-11-06T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-10T10:27:04.355052+00:00"
+      "last_success_utc": "2026-11-10T18:16:26.853803+00:00"
     }
   }
 }
