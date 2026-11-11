@@ -226,7 +226,7 @@
           "date": "2026-10-23T19:00:00"
         }
       },
-      "last_success_utc": "2026-11-11T10:53:24.731753+00:00"
+      "last_success_utc": "2026-11-11T18:41:41.429764+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -309,7 +309,7 @@
           "date": "2026-10-26T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-11T10:53:25.495379+00:00"
+      "last_success_utc": "2026-11-11T18:41:42.533784+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -600,9 +600,15 @@
           "title": "Consulta individual aos gabaritos oficiais definitivos das provas objetivas, ao caderno de prova e a folha de respostas",
           "url": "https://security.cebraspe.org.br/PM_MA_26/Recursos/Objetiva/GabaritoDefinitivo_21A9EAA8-9C8A-4C4C-BC84",
           "date": "2026-11-10T10:00:00"
+        },
+        "9cbeb616ccd9ac0ec24ac470077e3e1883ad7937d0341f9e40d294841db32b33": {
+          "section": "aplicativos",
+          "title": "Solicitação de adiamento do envio dos exames relativos à avaliação de saúde para candidatas gestantes",
+          "url": "https://security.cebraspe.org.br/PM_MA_26/Upload/Gestante_83ED9FB8-7D6E-478/",
+          "date": "2026-11-11T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-11T10:53:26.390404+00:00"
+      "last_success_utc": "2026-11-11T18:41:46.194700+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -715,7 +721,7 @@
           "date": "2026-11-06T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-11T10:53:27.172133+00:00"
+      "last_success_utc": "2026-11-11T18:41:47.243006+00:00"
     }
   }
 }
