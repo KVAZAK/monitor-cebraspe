@@ -226,7 +226,7 @@
           "date": "2026-10-23T19:00:00"
         }
       },
-      "last_success_utc": "2026-11-12T17:04:29.512690+00:00"
+      "last_success_utc": "2026-11-12T22:42:57.767726+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -309,7 +309,7 @@
           "date": "2026-10-26T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-12T17:04:30.301600+00:00"
+      "last_success_utc": "2026-11-12T22:42:58.538784+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -606,9 +606,15 @@
           "title": "Solicitação de adiamento do envio dos exames relativos à avaliação de saúde para candidatas gestantes",
           "url": "https://security.cebraspe.org.br/PM_MA_26/Upload/Gestante_83ED9FB8-7D6E-478/",
           "date": "2026-11-11T10:00:00"
+        },
+        "ded148fe3efcb233e3a3a51b1d312178f6ce98b8dfb6ebf79740caf22b21f358": {
+          "section": "aplicativos",
+          "title": "Link para envio via upload dos exames médicos /laboratoriais/odontológicos/toxicológico",
+          "url": "https://security.cebraspe.org.br/PM_MA_26/Upload/Exame_Medico_Lab_Odont_Tox_AEBE420A-6E01/",
+          "date": "2026-11-11T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-12T17:04:31.352895+00:00"
+      "last_success_utc": "2026-11-12T22:43:01.143417+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -721,7 +727,7 @@
           "date": "2026-11-06T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-12T17:04:32.547594+00:00"
+      "last_success_utc": "2026-11-12T22:43:01.945349+00:00"
     }
   }
 }
