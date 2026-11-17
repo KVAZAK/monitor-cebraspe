@@ -254,9 +254,15 @@
           "title": "GABARITO DEFINITIVO – CONHECIMENTOS ESPECÍFICOS PARA OS CARGOS DE 2 A 12",
           "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/6D8276B81EDC8B987C4489B34837762A92EF578E1FA16F0891B1EDB2751E6400.pdf",
           "date": "2026-11-16T16:00:00"
+        },
+        "10847af6fa25919583fd9ed693a396c2cc5d63faa2cd7fe1a5ba0cd5bca65bb8": {
+          "section": "aplicativos",
+          "title": "Consulta individual aos gabaritos oficiais definitivos da prova objetiva, ao caderno de provas e a folha de respostas",
+          "url": "https://security.cebraspe.org.br/CBM_MA_26/Recursos/Objetiva/GabaritoDefinitivo_41178471-407C-4191-8D74",
+          "date": "2026-11-17T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-17T11:09:33.416500+00:00"
+      "last_success_utc": "2026-11-17T19:49:41.325954+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -339,7 +345,7 @@
           "date": "2026-10-26T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-17T11:09:34.249712+00:00"
+      "last_success_utc": "2026-11-17T19:49:42.527930+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -642,9 +648,21 @@
           "title": "Upload das imagens dos exames médicos e avaliações médicas especializadas",
           "url": "https://security.cebraspe.org.br/PM_MA_26/Upload/Exame_Medico_Lab_Odont_Tox_AEBE420A-6E01/",
           "date": "2026-11-11T10:00:00"
+        },
+        "288369ab4467a5aef9ea356f1907c6edb1bbd3e39bb697c994d4b18d48b296d9": {
+          "section": "arquivosEdital",
+          "title": "Justificativas de alterações de gabarito",
+          "url": "https://cdn.cebraspe.org.br/concursos/PM_MA_26/arquivos/F391063FC1AA858ED88E10813B3445CEB77A6D00E6F82DD14DB2745CD0219D9A.pdf",
+          "date": "2026-11-17T14:48:00"
+        },
+        "d55540b46f50c464fc02df255095869b910dfbc689e30eb31451d2a948b24734": {
+          "section": "aplicativos",
+          "title": "Consulta ao espelho individual de desempenho nas provas objetivas",
+          "url": "https://security.cebraspe.org.br/PM_MA_26/Recursos/Objetiva/DesempenhoIndividual_50A4A77A-3AFC-49CB-ACE6",
+          "date": "2026-11-17T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-17T11:09:35.224176+00:00"
+      "last_success_utc": "2026-11-17T19:49:47.347972+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -757,7 +775,7 @@
           "date": "2026-11-06T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-17T11:09:36.030553+00:00"
+      "last_success_utc": "2026-11-17T19:49:48.484439+00:00"
     }
   }
 }
