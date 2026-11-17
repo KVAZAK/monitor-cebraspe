@@ -236,9 +236,27 @@
           "title": "Edital nº 7 – Resultado final nas provas objetivas, convocação para a avaliação de saúde, convocação para a avaliação biopsicossocial e a convocação para o procedimento de heteroidentificação complementar à autodeclaração dos candidatos negros",
           "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/977BF118F67E85D005023A5CAE2A375FF72E69634A713FBEC783CE0CADB2B9C7.pdf",
           "date": "2026-11-16T15:00:00"
+        },
+        "99cb9f8f20b256a25dec2d4700eb934faca69a025d9ca381626244fb09e576a8": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO DEFINITIVO – CONHECIMENTOS GERAIS PARA TODOS OS CARGOS",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/4F72E5FD3F118F8A1F9959C9F6D65B4E98CC8DA640EC186B8992FDCB53CE29C6.pdf",
+          "date": "2026-11-16T16:00:00"
+        },
+        "460d5b4b743c4ccd70be960980a814f904bf5527c0ce440ddafb7dbde55b9cf9": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO DEFINITIVO – CONHECIMENTOS ESPECÍFICOS – CARGO 1",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/482326F73EA8A2F59FC7F1E3B4FFEE0348C66479C598C186D244F39F46881289.pdf",
+          "date": "2026-11-16T16:00:00"
+        },
+        "c4d1f5757d1c99d5ff476851cbdb6f471f68cf1d8517dcfd79870195e07b8817": {
+          "section": "arquivosGabarito",
+          "title": "GABARITO DEFINITIVO – CONHECIMENTOS ESPECÍFICOS PARA OS CARGOS DE 2 A 12",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/6D8276B81EDC8B987C4489B34837762A92EF578E1FA16F0891B1EDB2751E6400.pdf",
+          "date": "2026-11-16T16:00:00"
         }
       },
-      "last_success_utc": "2026-11-16T18:55:19.898518+00:00"
+      "last_success_utc": "2026-11-17T02:28:10.945041+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -321,7 +339,7 @@
           "date": "2026-10-26T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-16T18:55:20.788583+00:00"
+      "last_success_utc": "2026-11-17T02:28:11.733160+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -626,7 +644,7 @@
           "date": "2026-11-11T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-16T18:55:21.806813+00:00"
+      "last_success_utc": "2026-11-17T02:28:12.765723+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -739,7 +757,7 @@
           "date": "2026-11-06T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-16T18:55:22.653163+00:00"
+      "last_success_utc": "2026-11-17T02:28:13.582574+00:00"
     }
   }
 }
