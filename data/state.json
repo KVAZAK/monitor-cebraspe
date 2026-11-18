@@ -260,9 +260,21 @@
           "title": "Consulta individual aos gabaritos oficiais definitivos da prova objetiva, ao caderno de provas e a folha de respostas",
           "url": "https://security.cebraspe.org.br/CBM_MA_26/Recursos/Objetiva/GabaritoDefinitivo_41178471-407C-4191-8D74",
           "date": "2026-11-17T10:00:00"
+        },
+        "eca7d521b16985551105468957f687646271b366506a36a2efac80d106e368eb": {
+          "section": "aplicativos",
+          "title": "Solicitação de adiamento do envio dos exames relativos à avaliação de saúde para candidatas gestantes",
+          "url": "https://security.cebraspe.org.br/CBM_MA_26/Upload/Gestante_Adiamento_Exames_1CF74810-E55A-4FEE/",
+          "date": "2026-11-18T10:00:00"
+        },
+        "7d7b48c9d71461c61c46417b91ec3766c64f2d14a5b3494c26477c501b86be37": {
+          "section": "aplicativos",
+          "title": "Upload das imagens dos exames médicos e avaliações médicas especializadas",
+          "url": "https://security.cebraspe.org.br/CBM_MA_26/Upload/ExameMedico_FCB90382-C50D-4CB9-8614",
+          "date": "2026-11-18T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-18T10:44:43.434447+00:00"
+      "last_success_utc": "2026-11-18T19:05:40.707187+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -343,9 +355,21 @@
           "title": "Link de consulta às respostas aos recursos contra a relação provisória dos candidatos com inscrição deferida como PCD",
           "url": "https://security.cebraspe.org.br/PC_MA_26_INVESTIGADOR/Recursos/PCD/ResultadoDefinitivo_7B1A6244-D81C-4491-B070",
           "date": "2026-10-26T10:00:00"
+        },
+        "60d9cb6e6c2aabe60d0c149d44721b150cc02c9b399521cf83b408678d6c4620": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 2 – Retificação do subitem 9.7.3 do Edital nº 1; Informações sobre a prova e disponibilização do link para consulta individual dos locais de aplicação – VLibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/PC_MA_26_INVESTIGADOR/arquivos/5EDD914DE5E28D37D0A5B3715AA71D9D3CF1A1A632FF5EF58BF57DAE9D1B44AF.html",
+          "date": "2026-11-18T11:50:00"
+        },
+        "c5a2416679f00b73d3abc869e4efb505d0f259f60a47b2a9dc7a3cc3a496066a": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 2 – Retificação do subitem 9.7.3 do Edital nº 1; Informações sobre a prova e disponibilização do link para consulta individual dos locais de aplicação",
+          "url": "https://cdn.cebraspe.org.br/concursos/PC_MA_26_INVESTIGADOR/arquivos/1C1E5BF55C5493E277E4AE3299732D9CBDCF20CBCBAA5D7D52F2247417351385.pdf",
+          "date": "2026-11-18T11:50:00"
         }
       },
-      "last_success_utc": "2026-11-18T10:44:44.377613+00:00"
+      "last_success_utc": "2026-11-18T19:05:44.757093+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -662,7 +686,7 @@
           "date": "2026-11-17T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-18T10:44:45.625185+00:00"
+      "last_success_utc": "2026-11-18T19:05:45.726213+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -775,7 +799,7 @@
           "date": "2026-11-06T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-18T10:44:46.731453+00:00"
+      "last_success_utc": "2026-11-18T19:05:46.533497+00:00"
     }
   }
 }
