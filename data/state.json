@@ -278,9 +278,15 @@
           "title": "Consulta ao espelho individual de desempenho nas provas objetivas",
           "url": "https://security.cebraspe.org.br/CBM_MA_26/Recursos/Objetiva/DesempenhoIndividual_541272FC-983F-450C-B295",
           "date": "2026-11-24T10:00:00"
+        },
+        "03178c830591e61e49f7879914fbe86cf04950c06fad4d84b4708bbb0d865e71": {
+          "section": "arquivosEdital",
+          "title": "Justificativas de alterações de gabarito",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/1CF7DA93129093F78057532855755E6CC62990A04C19F76C507411D6B7EFEC9C.pdf",
+          "date": "2026-11-24T13:43:00"
         }
       },
-      "last_success_utc": "2026-11-24T16:26:07.720747+00:00"
+      "last_success_utc": "2026-11-25T01:05:35.487587+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -387,7 +393,7 @@
           "date": "2026-07-13T22:00:02"
         }
       },
-      "last_success_utc": "2026-11-24T16:26:08.748469+00:00"
+      "last_success_utc": "2026-11-25T01:05:36.619360+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -704,7 +710,7 @@
           "date": "2026-11-17T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-24T16:26:09.608062+00:00"
+      "last_success_utc": "2026-11-25T01:05:37.888243+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -817,7 +823,7 @@
           "date": "2026-11-06T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-24T16:26:10.626925+00:00"
+      "last_success_utc": "2026-11-25T01:05:38.836629+00:00"
     }
   }
 }
