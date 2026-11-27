@@ -284,9 +284,21 @@
           "title": "Justificativas de alterações de gabarito",
           "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/1CF7DA93129093F78057532855755E6CC62990A04C19F76C507411D6B7EFEC9C.pdf",
           "date": "2026-11-24T13:43:00"
+        },
+        "fb334f6ebfb4f5927384816f25ff002879f098fd73267a1f901b41cc0a9e187f": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 8 - Retificação do Edital de Abertura e Alteração de Datas da Heteroidentificação - Em Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/437F456A30D31486B612D2DD3204A7560A6D12F8F22AFB582800B0E53ABA6644.html",
+          "date": "2026-11-27T10:00:01"
+        },
+        "7b55a8cbcbaf778ab20b253db1a7ef503ae4b8d3d506b5bcef30572a3d1e0e97": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 8 - Retificação do Edital de Abertura e Alteração de Datas da Heteroidentificação",
+          "url": "https://cdn.cebraspe.org.br/concursos/CBM_MA_26/arquivos/6C8B9F1873E2AF8B2B9295199685141E0A46B16E14D3233AA03DDE1031F5B9B0.pdf",
+          "date": "2026-11-27T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-27T04:14:02.509640+00:00"
+      "last_success_utc": "2026-11-27T13:51:37.821748+00:00"
     },
     "PC_MA_26_INVESTIGADOR": {
       "seen": {
@@ -393,7 +405,7 @@
           "date": "2026-07-13T22:00:02"
         }
       },
-      "last_success_utc": "2026-11-27T04:14:03.299576+00:00"
+      "last_success_utc": "2026-11-27T13:51:38.775270+00:00"
     },
     "PM_MA_26": {
       "seen": {
@@ -716,7 +728,7 @@
           "date": "2026-11-26T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-27T04:14:04.289214+00:00"
+      "last_success_utc": "2026-11-27T13:51:39.460458+00:00"
     },
     "SEAP_MA_26_INSPETOR_MONITOR": {
       "seen": {
@@ -827,9 +839,21 @@
           "title": "Consulta individual às respostas aos recursos interpostos contra a relação provisória dos candidatos que solicitaram concorrer na condição de pessoa com deficiência",
           "url": "https://security.cebraspe.org.br/SEAP_MA_26_INSPETOR_MONITOR/Recursos/PCD/ResultadoDefinitivo_E8E0FC8C-DB17-42CA/",
           "date": "2026-11-06T10:00:00"
+        },
+        "64a37a923a1941f7d834fb0e03806129269fbc394cd05966705d38108a531c9a": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 3 - Locais de aplicação das provas objetivas e da prova discursiva - Vlibras",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/7E3005D8E2C790D44FDF179919C17438164947DAEDA95F1F0F6574F949B3705A.html",
+          "date": "2026-11-27T10:00:01"
+        },
+        "0ed801c47269cc044af8695b881759a914ab7e38d27afcef4318f750fbc8ec5e": {
+          "section": "arquivosEdital",
+          "title": "Edital nº 3 - Locais de aplicação das provas objetivas e da prova discursiva",
+          "url": "https://cdn.cebraspe.org.br/concursos/SEAP_MA_26_INSPETOR_MONITOR/arquivos/7472E3EEB0D2DEAA7C51B668050D4B77EA458AD64B897D2D640AD1F8EE498E29.pdf",
+          "date": "2026-11-27T10:00:00"
         }
       },
-      "last_success_utc": "2026-11-27T04:14:05.079621+00:00"
+      "last_success_utc": "2026-11-27T13:51:43.282282+00:00"
     }
   }
 }
